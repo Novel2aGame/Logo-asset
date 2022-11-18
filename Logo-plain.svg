@@ -8,84 +8,12 @@
    version="1.1"
    id="svg5"
    xml:space="preserve"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="Logo.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-   id="namedview7"
-   pagecolor="#505050"
-   bordercolor="#eeeeee"
-   borderopacity="1"
-   inkscape:showpageshadow="0"
-   inkscape:pageopacity="0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#505050"
-   inkscape:document-units="px"
-   showgrid="false"
-   inkscape:zoom="1.03625"
-   inkscape:cx="314.5959"
-   inkscape:cy="231.60434"
-   inkscape:window-width="1920"
-   inkscape:window-height="1009"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="layer1">
-    <sodipodi:guide
-   position="0.48250905,399.51749"
-   orientation="399.39685,0"
-   id="guide3874"
-   inkscape:locked="false" />
-    <sodipodi:guide
-   position="0.48250905,0.12063599"
-   orientation="0,399.39685"
-   id="guide3876"
-   inkscape:locked="false" />
-    <sodipodi:guide
-   position="399.87936,0.12063599"
-   orientation="-399.39685,0"
-   id="guide3878"
-   inkscape:locked="false" />
-    <sodipodi:guide
-   position="399.87936,399.51749"
-   orientation="0,-399.39685"
-   id="guide3880"
-   inkscape:locked="false" />
-    <sodipodi:guide
-   position="0,400"
-   orientation="200,0"
-   id="guide3884"
-   inkscape:locked="false" />
-    <sodipodi:guide
-   position="0,200"
-   orientation="0,200"
-   id="guide3886"
-   inkscape:locked="false" />
-  </sodipodi:namedview>
+  
   <defs
-   id="defs2"><inkscape:path-effect
-     effect="spiro"
-     id="path-effect3860"
-     is_visible="true"
-     lpeversion="1" /><inkscape:path-effect
-     effect="spiro"
-     id="path-effect3856"
-     is_visible="true"
-     lpeversion="1" /><inkscape:path-effect
-     effect="spiro"
-     id="path-effect3852"
-     is_visible="true"
-     lpeversion="1" /><inkscape:path-effect
-     effect="spiro"
-     id="path-effect3848"
-     is_visible="true"
-     lpeversion="1" /></defs>
+   id="defs2" />
   <g
-   inkscape:label="Layer 1"
-   inkscape:groupmode="layer"
    id="layer1">
     <g
    style="fill:#216b2f;fill-opacity:1"
@@ -103,27 +31,19 @@
     <path
    style="fill:#6b2934;fill-opacity:1"
    d="M 0,0 399.18694,399.18694"
-   id="path3846"
-   inkscape:path-effect="#path-effect3848"
-   inkscape:original-d="M 0,0 C 132.83586,133.29077 266.12563,266.12563 399.18694,399.18694" />
+   id="path3846" />
     <path
    style="fill:#6b2934;fill-opacity:1"
    d="M 43.671734,174.68693 353.46809,168.5456"
-   id="path3850"
-   inkscape:path-effect="#path-effect3852"
-   inkscape:original-d="M 43.671734,174.68693 C 146.93819,172.86828 250.20364,170.59371 353.46809,168.5456" />
+   id="path3850" />
     <path
    style="fill:#6b2934;fill-opacity:1"
    d="M 398.50457,399.86931 0,1.3647417"
-   id="path3854"
-   inkscape:path-effect="#path-effect3856"
-   inkscape:original-d="M 398.50457,399.86931 C 265.67071,267.03545 132.83586,134.2006 0,1.3647417" />
+   id="path3854" />
     <path
    style="fill:#6b2934;fill-opacity:1"
    d="M 440.81156,223.13526 137.83891,193.11095"
-   id="path3858"
-   inkscape:path-effect="#path-effect3860"
-   inkscape:original-d="M 440.81156,223.13526 C 339.82168,213.12816 238.83079,203.12005 137.83891,193.11095" />
+   id="path3858" />
     <path
    style="fill:#6b2934;fill-opacity:1"
    d="M -0.68237084,-1.3647417 399.86931,400.55168 Z"
